@@ -1,0 +1,7 @@
+To create a regression model to predict cement compressive strength.
+
+Building a regression model to predict cement compressive strength requires a 
+combination of data cleaning and preprocessing, feature selection, algorithm
+ selection and training, evaluation, and model improvement. With these steps,
+ you can create a robust model that accurately predicts the compressive strength
+ of cement mixtures.
